@@ -26,5 +26,5 @@ jobs:
 
       - name: Run tests
         working-directory: Calculator
-        run: mvn tests
+        run: mvn test
           
