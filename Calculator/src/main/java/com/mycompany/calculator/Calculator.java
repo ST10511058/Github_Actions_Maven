@@ -6,6 +6,7 @@ package com.mycompany.calculator;
 public class Calculator {
 
     //methods for functionality
+    //learning how to do automated unit testing
     
     public int add(int a, int b) {
         return a + b;
